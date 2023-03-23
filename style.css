@@ -1,0 +1,27 @@
+body{
+  background-color:antiquewhite;
+  background-image: url('example_img_girl.jpg');
+}
+h1{
+  color:tomato;
+  margin-left:20px;
+}
+a:link,a:visited{
+  background-color: inherit;
+  padding:15px 125px;
+}
+p{
+  padding: 15px 25px;
+  font-weight: bold;
+  font-variant:normal;
+  border: 1px solid black;
+}
+table,th,tr{
+  border: 1px solid black;
+  border-style: groove;
+}
+th,td{
+  background-color: #96D4D4;
+  border-radius: 10px;
+  border-style: inset;
+}
